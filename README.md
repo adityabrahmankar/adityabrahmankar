@@ -2,7 +2,7 @@
 
 Take a look at the project's I've worked on [here.](https://adityab-portfolio.vercel.app/)
 
-Time I spent coding
+Time I spent coding (from: July'23)
 
 [![wakatime](https://wakatime.com/badge/user/2fce38a7-66ce-4d77-bd83-488bc3694e99.svg)](https://wakatime.com/@2fce38a7-66ce-4d77-bd83-488bc3694e99)
 
