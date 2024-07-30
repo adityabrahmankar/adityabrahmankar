@@ -6,6 +6,8 @@ Time I spent coding (from: July'23)
 
 [![wakatime](https://wakatime.com/badge/user/2fce38a7-66ce-4d77-bd83-488bc3694e99.svg)](https://wakatime.com/@2fce38a7-66ce-4d77-bd83-488bc3694e99)
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2fce38a7-66ce-4d77-bd83-488bc3694e99/13672dbb-a039-40df-95de-caed9a2d4a81.png" /></a>
+
 Follow me on Twitter 
 
 [![twitter](https://img.shields.io/twitter/follow/aaditya_ai?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/aaditya_ai)
