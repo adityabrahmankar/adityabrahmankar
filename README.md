@@ -104,12 +104,6 @@ More proof, case studies, private systems, and earlier experiments live on [adit
   </a>
 </p>
 
-## Days I'm coding 
-
-<a href="https://wakatime.com">
-  <img src="https://wakatime.com/share/@2fce38a7-66ce-4d77-bd83-488bc3694e99/13672dbb-a039-40df-95de-caed9a2d4a81.png" alt="WakaTime coding activity chart" />
-</a>
-
 ## Elsewhere
 
 - Website: [adityab.in](https://adityab.in)
