@@ -50,12 +50,6 @@
 
 More proof, case studies, private systems, and earlier experiments live on [adityab.in/work](https://adityab.in/work).
 
-## Open-source PRs
-
-| PR | Status |
-| --- | --- |
-| [upstash/docs #667](https://github.com/upstash/docs/pull/667) - fixed npm package linking in the docs overview. | Merged |
-| [tauri-apps/tauri-docs #2041](https://github.com/tauri-apps/tauri-docs/pull/2041) - corrected the Next.js bunx installation command. | Merged |
 
 ## Languages and tools
 
